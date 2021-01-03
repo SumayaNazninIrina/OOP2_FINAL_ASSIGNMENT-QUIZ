@@ -1,0 +1,11 @@
+G:\C#\allbookssln\allbooks\obj\Debug\allbooks.csprojAssemblyReference.cache
+G:\C#\allbookssln\allbooks\obj\Debug\allbooks.allbooks.resources
+G:\C#\allbookssln\allbooks\obj\Debug\allbooks.Properties.Resources.resources
+G:\C#\allbookssln\allbooks\obj\Debug\allbooks.csproj.GenerateResource.cache
+G:\C#\allbookssln\allbooks\obj\Debug\allbooks.csproj.CoreCompileInputs.cache
+G:\C#\allbookssln\allbooks\bin\Debug\allbooks.exe.config
+G:\C#\allbookssln\allbooks\bin\Debug\allbooks.exe
+G:\C#\allbookssln\allbooks\bin\Debug\allbooks.pdb
+G:\C#\allbookssln\allbooks\obj\Debug\allbooks.exe
+G:\C#\allbookssln\allbooks\obj\Debug\allbooks.pdb
+G:\C#\allbookssln\allbooks\obj\Debug\allbooks.Book_detail.resources
